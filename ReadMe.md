@@ -1,11 +1,9 @@
 # JetBrains Pure theme
 
+![](light.png)
+
 ![](dark.png)
 
 ## Usage
 
-Import `Pure (Dark).icls`
-
-Or
-
-Install `Pure (Dark).jar` as plug-in.
+Import `Pure (Dark).icls` or `Pure (Light).icls` as you like.
